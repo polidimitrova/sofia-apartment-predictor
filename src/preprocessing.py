@@ -4,7 +4,15 @@ import pandas as pd
 
 
 def prepare_features(df):
+    """
+    Prepares input features for model training.
 
+    - selects numerical features
+    - encodes categorical variables
+    - scales all features
+    """
+
+    # numerical apartment characteristics
     numeric_features = df[
         [
             "area_m2",
@@ -15,6 +23,7 @@ def prepare_features(df):
     ]
 
 
+    # convert text categories to binary columns
     categorical_features = pd.get_dummies(
         df[
             [
@@ -25,6 +34,7 @@ def prepare_features(df):
     )
 
 
+    # combine all features
     X = pd.concat(
         [
             numeric_features,
@@ -34,16 +44,27 @@ def prepare_features(df):
     )
 
 
+    # target variable
     y = df["price_eur"]
 
 
+    # feature names for visualization
     feature_names = X.columns
+
+
+    # standardization
     scaler = StandardScaler()
+
     X = scaler.fit_transform(X)
+
+
     return X, y, feature_names
-    
+
 
 def split_dataset(X, y):
+    """
+    Splits data into training and testing sets.
+    """
 
     X_train, X_test, y_train, y_test = train_test_split(
         X,
@@ -51,5 +72,6 @@ def split_dataset(X, y):
         test_size=0.2,
         random_state=42
     )
+
 
     return X_train, X_test, y_train, y_test

@@ -1,0 +1,101 @@
+﻿price_eur;area_m2;bedrooms;bathrooms;floor;district;building_type
+270000;60;1;1;3;Lozenets;Tuhla
+266000;63;1;1;2;Lozenets;Tuhla
+235000;52;1;1;2;Lozenets;Tuhla
+210000;74;1;1;3;Lozenets;Tuhla
+420000;97;2;1;7;Lozenets;Tuhla
+443000;128;2;1;6;Lozenets;Tuhla
+320000;100;2;1;1;Lozenets;Tuhla
+359000;80;2;1;1;Lozenets;Tuhla
+490000;193;3;2;2;Lozenets;Tuhla
+380000;127;3;1;2;Lozenets;Tuhla
+14700;42;1;1;5;Mladost;EPK
+175000;57;1;1;4;Mladost;Panel
+180000;65;1;1;4;Mladost;Panel
+214000;63;1;1;4;Mladost;Tuhla
+167000;78;2;1;20;Mladost;EPK
+190000;100;2;1;1;Mladost;Tuhla
+246000;83;2;1;1;Mladost;Panel
+305000;90;2;1;3;Mladost;Tuhla
+269000;105;3;1;10;Mladost;Tuhla
+313000;103;3;1;11;Mladost;EPK
+162000;40;1;1;2;Geo Milev;Tuhla
+160000;67;1;1;2;Geo Milev;Panel
+200000;60;1;1;4;Geo Milev;Tuhla
+170000;46;1;1;4;Geo Milev;Tuhla
+265000;93;2;1;3;Geo Milev;Tuhla
+290000;82;2;1;5;Geo Milev;Tuhla
+260000;85;2;1;13;Geo Milev;EPK
+250000;83;2;2;3;Geo Milev;EPK
+340000;97;3;1;5;Geo Milev;Tuhla
+280000;90;3;1;12;Geo Milev;EPK
+136000;68;1;1;4;Lyulin;Tuhla
+137000;62;1;1;1;Lyulin;Panel
+120582;61;1;1;3;Lyulin;Tuhla
+129433;65;1;1;2;Lyulin;Tuhla
+148000;65;1;1;3;Lyulin;Panel
+159990;90;2;1;2;Lyulin;Tuhla
+163000;82;2;1;9;Lyulin;Panel
+160000;88;2;1;5;Lyulin;Panel
+225000;105;3;2;4;Lyulin;EPK
+185000;116;3;2;2;Lyulin;Tuhla
+130000;54;1;1;6;Ovcha kupel;EPK
+170000;68;1;1;1;Ovcha kupel;Tuhla
+185000;60;1;1;6;Ovcha kupel;Panel
+175000;72;1;1;5;Ovcha kupel;Tuhla
+186000;88;2;1;3;Ovcha kupel;Tuhla
+200000;83;2;1;5;Ovcha kupel;Tuhla
+240000;85;2;1;4;Ovcha kupel;Panel
+236000;90;2;1;2;Ovcha kupel;Panel
+225000;116;3;1;2;Ovcha kupel;Tuhla
+290000;112;3;1;2;Ovcha kupel;EPK
+130000;55;1;1;1;Manastirski livadi;Tuhla
+220000;74;1;1;7;Manastirski livadi;Tuhla
+183000;67;1;1;2;Manastirski livadi;Tuhla
+190000;63;1;1;4;Manastirski livadi;Tuhla
+270000;88;2;1;6;Manastirski livadi;Tuhla
+235000;80;2;1;6;Manastirski livadi;Tuhla
+360000;103;2;1;4;Manastirski livadi;Tuhla
+213000;87;2;1;2;Manastirski livadi;Tuhla
+404000;130;3;2;2;Manastirski livadi;Tuhla
+503000;135;3;2;4;Manastirski livadi;Tuhla
+125000;59;1;1;2;Vitosha;Tuhla
+135000;61;1;1;2;Vitosha;Tuhla
+155000;57;1;1;2;Vitosha;Panel
+245000;90;1;1;6;Vitosha;Panel
+170000;77;2;1;3;Vitosha;Tuhla
+161000;81;2;1;4;Vitosha;Tuhla
+198000;88;2;1;2;Vitosha;Tuhla
+347000;109;2;2;11;Vitosha;Tuhla
+527000;211;3;2;2;Vitosha;Tuhla
+210000;123;3;1;5;Vitosha;Tuhla
+135000;60;1;1;4;Nadezhda;Panel
+151000;58;1;1;2;Nadezhda;Tuhla
+173000;66;1;1;66;Nadezhda;Panel
+130000;60;1;1;3;Nadezhda;Panel
+150000;68;2;1;4;Nadezhda;EPK
+242000;97;2;1;7;Nadezhda;Tuhla
+225000;88;2;1;3;Nadezhda;Panel
+190000;100;2;1;11;Nadezhda;EPK
+270000;140;3;1;7;Nadezhda;Tuhla
+302000;125;3;1;4;Nadezhda;Tuhla
+130000;48;1;1;8;Hadzhi Dimitar;Panel
+135000;63;1;1;1;Hadzhi Dimitar;Panel
+162000;69;1;1;2;Hadzhi Dimitar;Panel
+200000;67;1;1;3;Hadzhi Dimitar;Tuhla
+200000;90;2;1;5;Hadzhi Dimitar;Panel
+225000;80;2;1;4;Hadzhi Dimitar;Tuhla
+180000;78;2;1;4;Hadzhi Dimitar;Tuhla
+235000;90;2;1;2;Hadzhi Dimitar;Panel
+265000;85;3;1;5;Hadzhi Dimitar;Panel
+320000;130;3;1;3;Hadzhi Dimitar;Tuhla
+120000;63;1;1;2;Center;Tuhla
+180000;48;1;1;1;Center;Tuhla
+198000;74;1;1;3;Center;Tuhla
+203000;72;1;1;8;Center;Tuhla
+250000;88;2;1;8;Center;Panel
+270000;101;2;1;4;Center;EPK
+190000;85;2;1;5;Center;EPK
+250000;88;2;1;8;Center;Panel
+206000;87;3;1;3;Center;EPK
+330000;144;3;1;2;Center;Tuhla
